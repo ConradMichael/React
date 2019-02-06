@@ -1,0 +1,46 @@
+.mainHeader {
+	width:240px;
+	height:50px;
+	margin: 20px;
+	background-color:lightgray;
+}
+
+.logo{
+	margin:20px;
+	margin-bottom: 0px;
+}
+
+.mainBody {	
+	background-color:gray;
+}
+
+.navBar {
+	border: 1px solid;
+	width:220px;
+	height:30px;
+	margin: 20px;
+	margin-top:10px;
+	background-color:lightgray;
+}
+
+.trainerMain {
+	margin: 20px;
+	width: 240px;
+	height: 155px;
+	border: 2px solid;
+}
+
+.navButton {
+	margin: 20px;
+	margin-top: 0px;
+}
+
+.skillsTable {
+	margin: 20px;
+	margin-top:5px;
+	padding-bottom:5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 2px solid;
+	background-color:lightgray;
+}

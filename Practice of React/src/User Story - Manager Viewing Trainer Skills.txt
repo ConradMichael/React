@@ -1,0 +1,22 @@
+User Story:
+As a Training Manager, I want to view the Trainer Skills so I can find the appropriate trainers.
+
+Acceptance Criteria:
+
+Given I am on the Trainer Skills page,
+When I click the dashboard button
+Then I am taken to the dashboard view
+
+Given I am on the Trainer Skills page,
+When I click the Trainer button
+Then I am taken to the trainer view
+
+Given I am on the Trainer page,
+When I click the Skills button
+Then I am taken to the trainer skills view
+
+Given I am on the Trainer Skills page,
+When I click the back button,
+Then I am taken to the trainer view
+
+
